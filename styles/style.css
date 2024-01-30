@@ -1,0 +1,12 @@
+/* Fonts */
+@font-face {
+    font-family: Orbitron-Bold;
+    src: url(../Fonts/Orbitron/static/Orbitron-Bold.ttf);
+}
+*{
+    min-width: 0%;
+}
+.textStroke{
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
